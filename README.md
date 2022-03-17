@@ -1,3 +1,3 @@
 # EjerciciosPrograPy
-Ejercicios de Practica del curso Programación Avanzada
-Repo creado para compartir soluciones a estos ejercicios
+Ejercicios de Practica del curso Programación Avanzada /n
+Repo creadoa para compartir soluciones a estos ejercicios
