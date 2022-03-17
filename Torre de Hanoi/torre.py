@@ -5,7 +5,7 @@ class TorreDeHanoi:
         self.pilar_2 = []
         self.pilar_3 = []
 
-    def MoverDisco(self, pilar_origen, pilar_destino):
+    def Mover_disco(self, pilar_origen, pilar_destino):
         self.origen = pilar_origen # Toma valores entre 1 - 3
         self.destino = pilar_destino
         pilares = {1 : self.pilar_1, 2 : self.pilar_2, 3 : self.pilar_3}
@@ -61,7 +61,7 @@ while True:
         print("escribe el pilar de origen y de destino respectivamente")
         ori = int(input())
         dest = int(input())
-        torre.MoverDisco(ori, dest)
+        torre.Mover_disco(ori, dest)
     elif decision == 2:
         torre.Check()
     else:
