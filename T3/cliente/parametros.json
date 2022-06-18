@@ -1,0 +1,9 @@
+{
+    "host": "localhost",
+    "port": 54341,
+    "ruta_logo": ["Sprites", "Logos", "logo.png"],
+    "ruta_fondo": ["Sprites", "Logos", "fondo.png"],
+    "ruta_ui_inicio": ["Ui", "ventanainicio.ui"],
+    "ruta_ui_espera": ["Ui", "ventanaespera.ui"],
+    "ruta_ui_juego": ["Ui", "ventanajuego.ui"]
+}
